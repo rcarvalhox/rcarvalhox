@@ -10,6 +10,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="60"/>  </div>
 
 ### My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarvalhox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarvalhox&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarvalhox&show_icons=true&theme=transparent)
