@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Ramon Carvalho
-- 👀 I’m interested in HTML|CSS|JS
+- 👀 I’m interested in HTML| CSS |JS
 - 🌱 I’m currently learning   Front End e Back  End
 
 ### Best technologies
