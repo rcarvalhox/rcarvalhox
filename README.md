@@ -11,6 +11,9 @@
 
 ### My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcarvalhox&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcarvalhox&show_icons=true&theme=transparent)
-
+<div>
+  <a href="https://github.com/nesantana">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcarvalhox&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcarvalhox&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
